@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vim-toggle:Toggle Vim Mode": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
