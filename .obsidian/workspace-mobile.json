@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Maths/Deriving the Quadratic Formula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Deriving the Quadratic Formula"
             }
           }
         ]
@@ -155,7 +155,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "vim-toggle:Toggle Vim Mode": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -167,6 +166,8 @@
   },
   "active": "84e2c86487bb2b84",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Maths/Deriving the Quadratic Formula.md",
+    "Maths"
   ]
 }

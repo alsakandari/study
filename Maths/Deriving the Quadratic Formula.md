@@ -1,0 +1,1 @@
+## "Complete The Square" method
