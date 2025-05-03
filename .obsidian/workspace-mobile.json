@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths/Deriving the Quadratic Formula.md",
+                "file": "Arabic/أنواع الكلمة.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deriving the Quadratic Formula"
+              "title": "أنواع الكلمة"
             }
           }
         ]
@@ -166,8 +166,14 @@
   },
   "active": "84e2c86487bb2b84",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Arabic/أنواع الكلمة.md",
+    "Arabic",
     "README.md",
     "Maths/Deriving the Quadratic Formula.md",
+    "/README.md",
+    "/Maths/Deriving the Quadratic Formula.md",
+    "/Maths",
     "Maths"
   ]
 }
