@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arabic/التمييز.md",
+                "file": "Arabic/الميزان الصرفي.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "التمييز"
+              "title": "الميزان الصرفي"
             }
           }
         ]
@@ -167,6 +167,7 @@
   "active": "84e2c86487bb2b84",
   "lastOpenFiles": [
     "Arabic/الأفعال المزيدة والمجردة.md",
+    "Arabic/الميزان الصرفي.md",
     "Arabic/التمييز.md",
     "Arabic/أنواع الكلمة.md",
     "Untitled.md",
