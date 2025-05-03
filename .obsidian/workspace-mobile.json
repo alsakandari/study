@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arabic/أنواع الكلمة.md",
+                "file": "Arabic/الأفعال المزيدة والمجردة.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "أنواع الكلمة"
+              "title": "الأفعال المزيدة والمجردة"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "84e2c86487bb2b84",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Arabic/التمييز.md",
+    "Arabic/الأفعال المزيدة والمجردة.md",
     "Arabic/أنواع الكلمة.md",
+    "Untitled.md",
     "Arabic",
     "README.md",
     "Maths/Deriving the Quadratic Formula.md",
