@@ -1,4 +1,5 @@
 {
   "vimMode": true,
-  "tabSize": 7
+  "tabSize": 7,
+  "showInlineTitle": false
 }

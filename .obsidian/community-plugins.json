@@ -1,7 +1,6 @@
 [
   "obsidian-git",
   "obsidian-style-settings",
-  "obsidian-minimal-settings",
-  "settings-search",
-  "vim-toggle"
+  "vim-toggle",
+  "obsidian-minimal-settings"
 ]
