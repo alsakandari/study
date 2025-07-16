@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "tabSize": 7,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
