@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arabic/النحو/9. الجملة الفعلية.md",
+                "file": "Arabic/النحو/10. الحال.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. الجملة الفعلية"
+              "title": "10. الحال"
             }
           }
         ],
@@ -195,8 +195,10 @@
   },
   "active": "e781cce80d860157",
   "lastOpenFiles": [
-    "Arabic/النحو/2. العلامة الإعرابية.md",
+    "Arabic/النحو/7. النعت.md",
+    "Arabic/النحو/10. الحال.md",
     "Arabic/النحو/9. الجملة الفعلية.md",
+    "Arabic/النحو/2. العلامة الإعرابية.md",
     "Arabic/النحو/4. الأسماء الخمسة.md",
     "Arabic/النحو/3. أنواع الكلمة.md",
     "Arabic/النحو/5. الجملة الاسمية.md",
@@ -206,7 +208,6 @@
     "Arabic/الصرف",
     "Arabic/النحو",
     "Arabic/النحو/8. المضاف إليه.md",
-    "Arabic/النحو/7. النعت.md",
     "Arabic/النحو/1. الحالات الإعرابية.md",
     "Arabic/الصرف/الميزان الصرفي.md",
     "Arabic/النحو/التمييز.md",
